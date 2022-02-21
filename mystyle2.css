@@ -1,0 +1,26 @@
+body{
+  background-image: url('background.png');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  margin-left: : 10%;
+}
+h1{
+  text-align: center;
+  font-size: 90px;
+  font-family: 'Montserrat', sans-serif;
+  color:#cec2cf;
+}
+a:link, a:visited {
+  background-color: #d660bc;
+  color: white;
+  padding: 20px 75px;
+  text-align: justify;
+  display: inline-block;
+  font-size: 40px;
+}
+
+a:hover, a:active {
+  background-color: #954f7b;
+    text-align: center;
+}

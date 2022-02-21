@@ -1,0 +1,28 @@
+body {
+  background-color: #BAABDA;
+  margin-right: 10%;
+  margin-left: 10%;
+  font-family: 'Rubik', sans-serif;
+}
+
+img {
+  width: 100%
+}
+
+div.container {
+  text-align: center;
+  padding: 10px 20px;
+}
+
+figcaption {
+  font-family: “Playfair Display”, “Didot”, "Times New Roman", Times, serif;
+}
+
+.myDiv {
+  background-color: #0A1D37;
+  text-align: center;
+}
+
+h1 {
+  color:white;
+}
